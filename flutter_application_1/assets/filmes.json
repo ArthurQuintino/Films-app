@@ -1,0 +1,112 @@
+[
+    {
+        "titulo": "Superbad - É Hoje",
+        "ano": 2007,
+        "genero": "Comédia",
+        "elenco": [
+            "Jonah Hill",
+            "Michael Cera",
+            "Seth Rogen"
+        ],
+        "descricao": "Dois adolescentes tentam aproveitar ao máximo a sua última festa antes de se formarem no ensino médio."
+    },
+    {
+        "titulo": "O Virgem de 40 Anos",
+        "ano": 2005,
+        "genero": "Comédia, Romance",
+        "elenco": [
+            "Steve Carell",
+            "Paul Rudd",
+            "Seth Rogen"
+        ],
+        "descricao": "Um homem de 40 anos ainda é virgem, mas seus amigos decidem ajudá-lo a mudar isso."
+    },
+    {
+        "titulo": "A Ressaca",
+        "ano": 2009,
+        "genero": "Comédia",
+        "elenco": [
+            "Bradley Cooper",
+            "Zach Galifianakis",
+            "Ed Helms"
+        ],
+        "descricao": "Após uma noite de festa em Las Vegas, três amigos tentam se lembrar do que aconteceu e encontrar o noivo desaparecido."
+    },
+    {
+        "titulo": "Os Caça-Fantasmas",
+        "ano": 1984,
+        "genero": "Comédia, Ficção Científica",
+        "elenco": [
+            "Bill Murray",
+            "Dan Aykroyd",
+            "Harold Ramis"
+        ],
+        "descricao": "Três cientistas especializados em parapsicologia montam um negócio para capturar fantasmas em Nova York."
+    },
+    {
+        "titulo": "Meu Passado Me Condena",
+        "ano": 2013,
+        "genero": "Comédia, Romance",
+        "elenco": [
+            "Fábio Porchat",
+            "Tatá Werneck",
+            "Miá Mello"
+        ],
+        "descricao": "Uma viagem de lua de mel em um cruzeiro se transforma em uma grande confusão quando o casal de recém-casados enfrenta surpresas inesperadas."
+    },
+    {
+        "titulo": "O Auto da Compadecida",
+        "ano": 2000,
+        "genero": "Comédia, Drama",
+        "elenco": [
+            "Matheus Nachtergaele",
+            "Selton Mello",
+            "Virginia Cavendish"
+        ],
+        "descricao": "João Grilo e Chicó são dois nordestinos que se envolvem em muitas confusões, tentando enganar a morte e conseguir uma vida melhor."
+    },
+    {
+        "titulo": "A Morte lhe Cai Bem",
+        "ano": 1992,
+        "genero": "Comédia, Fantasia",
+        "elenco": [
+            "Meryl Streep",
+            "Goldie Hawn",
+            "Bruce Willis"
+        ],
+        "descricao": "Duas mulheres que disputam o amor do mesmo homem, encontram uma solução extrema para manter a juventude eterna."
+    },
+    {
+        "titulo": "Os Incríveis",
+        "ano": 2004,
+        "genero": "Animação, Comédia, Aventura",
+        "elenco": [
+            "Craig T. Nelson",
+            "Holly Hunter",
+            "Samuel L. Jackson"
+        ],
+        "descricao": "Uma família de super-heróis tenta viver uma vida normal enquanto lida com um novo vilão que ameaça o mundo."
+    },
+    {
+        "titulo": "O Diabo Veste Prada",
+        "ano": 2006,
+        "genero": "Comédia, Drama",
+        "elenco": [
+            "Meryl Streep",
+            "Anne Hathaway",
+            "Emily Blunt"
+        ],
+        "descricao": "Uma jovem jornalista trabalha como assistente de uma poderosa editora de moda e se vê perdida em um mundo de luxo e pressão."
+    },
+    {
+        "titulo": "Ace Ventura: Um Detetive Diferente",
+        "ano": 1994,
+        "genero": "Comédia, Mistério",
+        "elenco": [
+            "Jim Carrey",
+            "Courteney Cox",
+            "Sean Young"
+        ],
+        "descricao": "Ace Ventura é um detetive excêntrico especializado em animais desaparecidos, que é contratado para encontrar o mascote perdido de um time de futebol."
+    }
+]
