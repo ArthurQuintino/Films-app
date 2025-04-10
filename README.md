@@ -1,3 +1,3 @@
-# funnyflix
+# films_app
 
 A new Flutter project.

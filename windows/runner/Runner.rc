@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "funnyflix" "\0"
+            VALUE "FileDescription", "films_app" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "funnyflix" "\0"
+            VALUE "InternalName", "films_app" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2025 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "funnyflix.exe" "\0"
-            VALUE "ProductName", "funnyflix" "\0"
+            VALUE "OriginalFilename", "films_app.exe" "\0"
+            VALUE "ProductName", "films_app" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

@@ -1,4 +1,4 @@
-package com.example.funnyflix
+package com.example.films_app
 
 import io.flutter.embedding.android.FlutterActivity
 
