@@ -1,4 +1,4 @@
-name: flutter_application_1
+name: films_app
 description: "A new Flutter project."
 publish_to: 'none'
 version: 0.1.0
@@ -9,7 +9,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  gap: ^3.0.1
 
 dev_dependencies:
   flutter_test:
