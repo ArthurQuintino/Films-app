@@ -1,6 +1,6 @@
 {
-    "name": "films_app",
-    "short_name": "films_app",
+    "name": "funnyflix",
+    "short_name": "funnyflix",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

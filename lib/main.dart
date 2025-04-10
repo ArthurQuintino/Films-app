@@ -1,6 +1,6 @@
   import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:films_app/filme.dart';
+import 'package:funnyflix/filme.dart';
 import 'dart:convert';
 
 void main() {
