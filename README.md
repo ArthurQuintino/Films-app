@@ -2,7 +2,7 @@
 ### Integrantes: Arthur Quintino de Santana <br>     Eduardo Kenji Oka Choji 
 ### Turma: 3°A MTEC DS
 ---
-### Descrição do projeto: <br> 
+### Descrição do projeto:
 #### Simplificadamente um aplicativo que disponibiliza ao utilizador uma serie de filmes de comedia com direito a diversas informações como nome, ano de lançamento, genero, elenco, e uma mini descrição, utilizando de base dados .json de filmes.
 ----
 ### Sumário: 
