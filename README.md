@@ -5,3 +5,5 @@
 #### Sumario: 
 
 [Descrição da Classe](https://github.com/ArthurQuintino/Films-app/wiki#descri%C3%A7%C3%A3o-da-classe)
+[Descrição do arquivo .JSON](https://github.com/ArthurQuintino/Films-app/wiki/Arquivo-.Json#descri%C3%A7%C3%A3o-do-arquivo-json)
+[Descrição do código](https://github.com/ArthurQuintino/Films-app/wiki/Detalhamento-do-codigo#descri%C3%A7%C3%A3o-do-c%C3%B3digo)
